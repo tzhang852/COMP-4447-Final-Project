@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm stuff
+.idea/csv-plugin.xml
+.idea/git_toolbox_prj.xml
+.idea/vcs.xml
+.idea/workspace.xml
