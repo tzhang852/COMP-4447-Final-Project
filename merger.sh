@@ -1,0 +1,1 @@
+nbmerge notebooks/covid.ipynb notebooks/edu_mal.ipynb notebooks/hiv_aids_cleaning.ipynb > merged.ipynb
