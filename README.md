@@ -1,2 +1,2 @@
 # COMP-4447-Final-Project
-Final Project for COMP 4447
+https://docs.google.com/presentation/d/1bHw4y76H4qWmX2Vymz1oBfrKyl3nZvOReB1PT1gQFWs/edit?usp=sharing
